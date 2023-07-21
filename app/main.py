@@ -29,7 +29,7 @@ app.include_router(vote.router)
     
 @app.get('/')
 def home ():
-    return {"message": "This is the home page fren"}
+    return {"message": "This is the home page MY FREN"}
 
 
 
